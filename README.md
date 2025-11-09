@@ -405,6 +405,11 @@ Projects built with this template:
 
 Want to feature your project? Open an issue or submit a pull request!
 
+## Related Templates
+
+- **[AI Dev Toolkit Template](https://github.com/hartou/ai-dev-toolkit-template)** - Add AI assistance to existing projects
+- **[AI Project Template](https://github.com/hartou/ai-project-template)** - Start new AI projects (this repo)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
